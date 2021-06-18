@@ -1,4 +1,4 @@
-<h1 align="center">Welocome to Shreya's GitHub!👋</h1>
+<h1 align="center">Welcome to Shreya's GitHub!👋</h1>
 
 #### 🤝🏻 &nbsp;Connect with Me
 <a href="https://www.linkedin.com/in/shreya-bansall/">
