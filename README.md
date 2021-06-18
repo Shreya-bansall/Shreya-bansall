@@ -1,6 +1,6 @@
 # Shreya-Bansal
 
-<h1 align="center">Hey there 👋, I'm Tejas!</h1>
+<h1 align="center">Welocome to Shreya's GitHub!👋</h1>
 <h3 align="center">A passionate Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejas-trivedi&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-trivedi" /> </p>
