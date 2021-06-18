@@ -1,7 +1,6 @@
 <h1 align="center">Welocome to Shreya's GitHub!👋</h1>
 
 #### 🤝🏻 &nbsp;Connect with Me
-#### Let's Connect!!
 <a href="https://www.linkedin.com/in/shreya-bansall/">
   <img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
