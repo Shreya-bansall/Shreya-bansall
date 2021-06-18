@@ -7,7 +7,7 @@
 <a href = "mailto:shreyab2400@gmail.com">
   <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/gmail.png" />
 </a>
-<a href="hhttps://www.instagram.com/shreyabansall_/">
+<a href="https://www.instagram.com/shreyabansall_/">
   <img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 <a href="https://www.hackerrank.com/shreyabansal?hr_r=1">
