@@ -16,3 +16,7 @@
 <a href="https://twitter.com/Shreya_bansall">
   <img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreya-bansall&show_icons=true&locale=en" alt="shreya-bansall" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-bansall&" alt="shreya-bansall" /></p>
