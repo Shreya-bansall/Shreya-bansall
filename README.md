@@ -20,3 +20,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-bansall&theme=dark" alt="shreya-bansall" /></p>
 </div>
+
+<div>
+<img src = "https://github-readme-stats.vercel.app/api?username=Shreya-bansall&count_private=true&show_icons=true&theme=dark" width="390"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-bansall&show_icons=true&theme=dark" width="390"/>
+</div>
