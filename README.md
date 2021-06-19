@@ -13,8 +13,8 @@
 <a href = "mailto:shreyab2400@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="shreyabansall_" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-bansall&show_icons=true&locale=en&layout=compact" alt="shreya-bansall" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreya-bansall&show_icons=true&locale=en" alt="shreya-bansall" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-bansall&" alt="shreya-bansall" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-bansall&show_icons=true&locale=en&layout=compact" alt="shreya-bansall" /></p>
