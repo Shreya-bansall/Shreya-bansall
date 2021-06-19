@@ -18,8 +18,7 @@
 </a>
 
 
-
-####
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreya-bansall&show_icons=true&locale=en" alt="shreya-bansall" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreya-bansall&show_icons=true&locale=en" alt="shreya-bansall" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-bansall&" alt="shreya-bansall" /></p>
