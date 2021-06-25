@@ -15,6 +15,7 @@
 
 <div>
 <img src = "https://github-readme-stats.vercel.app/api?username=Shreya-bansall&count_private=true&show_icons=true&theme=cobalt" width="390"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-bansall&show_icons=true&theme=cobalt&locale=en&layout=compact" width="390"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shreya-bansall&theme=dark-smoky" width="390"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shreya-bansall&theme=dark-smoky)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-bansall&show_icons=true&theme=cobalt&locale=en&layout=compact" width="390"/>
 </div>
