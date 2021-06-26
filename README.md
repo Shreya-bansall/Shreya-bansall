@@ -14,7 +14,7 @@
 </p>
 
 <div>
-<img src ="https://github-readme-stats.vercel.app/api?username=Shreya-bansall&count_private=true&show_icons=true&theme=material-palenight" width="390"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shreya-bansall&theme=material-palenight" width="390"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-bansall&show_icons=true&theme=material-palenight&locale=en&layout=compact" width="390"/>
+<img src ="https://github-readme-stats.vercel.app/api?username=Shreya-bansall&count_private=true&show_icons=true&theme=omni" width="390"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shreya-bansall&theme=omni" width="390"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-bansall&show_icons=true&theme=omni&locale=en&layout=compact" width="390"/>
 </div>
