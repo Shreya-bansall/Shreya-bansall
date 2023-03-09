@@ -11,6 +11,7 @@
 <a href="https://instagram.com/shreyabansall_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyabansall_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@shreyabansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shreyabansal" height="30" width="40" /></a>
 <a href = "mailto:shreyab2400@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="shreyabansall_" height="30" width="40" /></a>
+<a href="https://leetcode.com/shreya-bansall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreya-bansall" height="30" width="40" /></a>
 </p>
 
 <div>
