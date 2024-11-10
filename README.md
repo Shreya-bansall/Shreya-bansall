@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Shreya's GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29" alt="hi"></h1>
+<h1 align="center">Hey There, I'm Shreya Bansal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29" alt="hi"></h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreya-bansall" alt="shreya-bansall" /></a> </p>
 
