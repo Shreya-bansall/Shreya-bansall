@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreya-bansall" alt="shreya-bansall" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-bansall&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-bansall" /> </p>
+
 
 <h3 align="left">🤝🏻 Connect with Me</h3>
 <p align="left">
