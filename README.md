@@ -14,14 +14,7 @@
 <a href="https://leetcode.com/shreya-bansall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreya-bansall" height="30" width="40" /></a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shreya-bansall&theme=blueberry-duo&hide_border=true" alt="GitHub Streak" /></a>
 </div>
-<div>
-<img src ="https://github-readme-stats.vercel.app/api?username=Shreya-bansall&count_private=true&show_icons=true&theme=chartreuse-dark" width="390"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shreya-bansall&theme=chartreuse-dark" width="390"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-bansall&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" width="390"/>
-</div>
-
-<img src= "https://activity-graph.herokuapp.com/graph?username=Shreya-bansall&theme=chartreuse-dark"/>
